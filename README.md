@@ -47,10 +47,11 @@ The work centers around order lifecycle modeling, payment validation, and unders
 - Next.js  
 - Git  
 
-Currently learning:
-- Power BI  
-- Databricks  
-
 ---
 
-I am still early in my technical career. I prefer building things carefully and correctly rather than quickly and loosely. This profile evolves as my skills grow.
+## Currently Working On
+
+- Building end-to-end data projects from ingestion to reporting  
+- Strengthening data modeling and validation practices  
+- Learning Power BI for reporting and visualization  
+- Exploring Databricks and modern data workflows  
