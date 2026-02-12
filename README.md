@@ -38,7 +38,11 @@ The work centers around order lifecycle modeling, payment validation, and unders
 - Pandas  
 - NumPy  
 - DuckDB  
-- Matplotlib  
+- Matplotlib
+
+### Machine Learning Basics
+- Data preprocessing
+- Basic model structure and evaluation
 
 ### Web and Other Tools
 - HTML  
