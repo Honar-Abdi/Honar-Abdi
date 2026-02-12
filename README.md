@@ -1,31 +1,56 @@
 # Honar Abdi
 
-Tämä GitHub kertoo siitä, mihin suuntaan olen menossa.
+This GitHub reflects the direction I am moving toward.
 
-Olin pitkään ammattijalkapalloilija. Siinä oppi katsomaan peliä kokonaisuutena, näkemään tilanteet ennen kuin ne tapahtuvat ja ymmärtämään miten yksittäiset liikkeet vaikuttavat koko kenttään. Kun siirryin IT-alalle, huomasin ajattelevani dataa samalla tavalla. Ensin pitää hahmottaa kokonaisuus, sitten vasta lähteä tekemään yksittäisiä ratkaisuja.
+I spent many years as a professional football player. There you learn to see the whole field, understand patterns before they fully unfold, and recognize how small decisions affect the bigger picture. When I transitioned into IT, I realized I approach data the same way. First understand the structure. Then make decisions inside it.
 
-Valmistuin tieto- ja viestintätekniikan insinööriksi joulukuussa 2025. Olen rakentanut projekteja SQL:n ja Pythonin ympärillä ja pyrkinyt tekemään ne niin, että rakenne on selkeä ja looginen. Minulle tärkeää ei ole pelkkä lopputulos, vaan se että kokonaisuus kestää tarkastelun.
+I graduated as an ICT Engineer in December 2025. Since then, I have been building projects around SQL and Python, focusing on structure, validation, and clarity. What matters to me is not just getting a result, but making sure the logic behind it holds up.
 
-Täältä löytyy projekteja, joissa:
+Here you will find projects where:
 
-- data haetaan ja tarkistetaan ennen analyysiä  
-- rakenne mietitään ennen kuin kyselyitä kirjoitetaan  
-- analyysi perustuu ymmärrettyyn kokonaisuuteen  
+- data is ingested and validated before analysis  
+- structure is designed before queries are written  
+- conclusions are based on understood context  
 
 ---
 
-## Projektit
+## Projects
 
 ### Order-to-Insight
 
-Dataputki Pythonilla ja DuckDB:llä.  
-Rakensin kokonaisuuden, jossa data kulkee ingestoinnista mallinnukseen ja raportointiin selkeässä rakenteessa.
+A data pipeline built with Python and DuckDB.  
+The focus was on creating a clear flow from ingestion to modeling and reporting, with a clean and understandable structure.
 
 ### Olist Order Lifecycle Analytics
 
-E-commerce-datan analyysi SQL:llä.  
-Keskiössä tilausdatan elinkaari, maksut ja datan laadun tarkistaminen ennen johtopäätöksiä.
+E-commerce data analysis using SQL.  
+The work centers around order lifecycle modeling, payment validation, and understanding how events connect across the dataset.
 
 ---
 
-Olen vielä urani alkuvaiheessa teknisellä puolella, mutta teen asiat mieluummin rauhassa ja oikein kuin nopeasti ja sinne päin. Tämä profiili päivittyy sitä mukaa kun osaaminen kasvaa.
+## Tools
+
+### Languages
+- Python  
+- SQL  
+
+### Libraries and Data Tools
+- Pandas  
+- NumPy  
+- DuckDB  
+- Matplotlib  
+
+### Web and Other Tools
+- HTML  
+- CSS  
+- Tailwind  
+- Next.js  
+- Git  
+
+Currently learning:
+- Power BI  
+- Databricks  
+
+---
+
+I am still early in my technical career. I prefer building things carefully and correctly rather than quickly and loosely. This profile evolves as my skills grow.
